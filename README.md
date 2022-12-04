@@ -1,6 +1,6 @@
 # network_info
 
-Displays network info of the computer on your screen.
+Displays network info of the computer on your screen. Unlike BGinfo or DesktopInfo it shows live network information.
 
 # Config Details
 
